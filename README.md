@@ -9,7 +9,7 @@ Passionate and motivated Full Stack Web Developer with 8 months of hands-on expe
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20views&color=201F1D&style=for-the-badge&logo=star" alt="alisulmanpro" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad Subhan&label=Profile%20views&color=201F1D&style=for-the-badge&logo=star" alt="Muhammad Subhan" style="padding-right:20px;" />
 </p>
 
 </div>
